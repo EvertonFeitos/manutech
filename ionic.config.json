@@ -1,0 +1,7 @@
+{
+  "name": "manutech",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
