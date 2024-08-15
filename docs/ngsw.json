@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1723756144345,
+  "timestamp": 1723758066094,
   "index": "/manutech/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/manutech/1120.48b4610a1a3906c8.js",
         "/manutech/1178.cd4a6b28e428ee9b.js",
-        "/manutech/1269.a32ab350c64d1998.js",
+        "/manutech/1269.aa226d1e5dc20af7.js",
         "/manutech/1315.7fe5fa9219b74024.js",
         "/manutech/1372.59a9f54a7a77f48a.js",
         "/manutech/1396.d39fd10e9e2cf168.js",
@@ -27,7 +27,7 @@
         "/manutech/3150.c5843ef9e51f7f82.js",
         "/manutech/3287.2f089fae5963bc43.js",
         "/manutech/3483.9d059f1055ea0bb3.js",
-        "/manutech/3524.8af83c71ae62778b.js",
+        "/manutech/3524.9ae84acc8a96f9b4.js",
         "/manutech/3544.1c4b23f9aa03ab04.js",
         "/manutech/3672.4ba68d97893fa636.js",
         "/manutech/3734.319f048435c12102.js",
@@ -75,15 +75,17 @@
         "/manutech/9992.dd7ec0b0a20a168c.js",
         "/manutech/common.2fd2a19a71bdcda5.js",
         "/manutech/index.html",
-        "/manutech/main.14876d22331c7230.js",
+        "/manutech/main.9d783929b4e8f7d6.js",
         "/manutech/manifest.webmanifest",
         "/manutech/polyfills-core-js.93f56369317b7a8e.js",
         "/manutech/polyfills-dom.516ff539260f3e0d.js",
         "/manutech/polyfills.39618c63b542eb40.js",
-        "/manutech/runtime.d92642cc3d714627.js",
+        "/manutech/runtime.7b82b5ef7e419b9b.js",
         "/manutech/styles.75dfe84a30722637.css"
       ],
-      "patterns": []
+      "patterns": [
+        "http:\\/\\/179\\.190\\.96\\.46:160\\/.*"
+      ]
     },
     {
       "name": "assets",
@@ -114,7 +116,7 @@
   "hashTable": {
     "/manutech/1120.48b4610a1a3906c8.js": "55f91154cda660d7eec186e31b6466227e5a2d0d",
     "/manutech/1178.cd4a6b28e428ee9b.js": "d9ae08b451d0ffc625c0364c90cc0571b1081464",
-    "/manutech/1269.a32ab350c64d1998.js": "0bc0570c5ef1d640cc653dea922a7d35d0e9ad41",
+    "/manutech/1269.aa226d1e5dc20af7.js": "85268801a0f40f00c030f3bd09532a2f478407f3",
     "/manutech/1315.7fe5fa9219b74024.js": "fda7e50279141dfcdb0a4d0def5dec66b5968936",
     "/manutech/1372.59a9f54a7a77f48a.js": "f2c1247bba225d7349c44bc67a7004e1190659f2",
     "/manutech/1396.d39fd10e9e2cf168.js": "d168da9735b8fec21d9d34c7405199f56e3ce716",
@@ -128,7 +130,7 @@
     "/manutech/3150.c5843ef9e51f7f82.js": "f5924ee8a278f84e3af78c862a355d998ac157b6",
     "/manutech/3287.2f089fae5963bc43.js": "c99a0e5588f542003c575ec0177a7ec13389d947",
     "/manutech/3483.9d059f1055ea0bb3.js": "ab3f9079fa90a46cf59ddfa60167867b06015147",
-    "/manutech/3524.8af83c71ae62778b.js": "269cb74ca1f308b1d97f0836c97b2cc586b73410",
+    "/manutech/3524.9ae84acc8a96f9b4.js": "4a00dcbe69eb5da83111f802346428b054f3e0c3",
     "/manutech/3544.1c4b23f9aa03ab04.js": "c52461146836cbac50d727adbeb0d5eb7deb1aaa",
     "/manutech/3672.4ba68d97893fa636.js": "4f21b9be88684611968b680f34a2993eacb189a5",
     "/manutech/3734.319f048435c12102.js": "f5c3747c0c1a2591ed60390f4a2ecf5ea3881c4f",
@@ -188,13 +190,13 @@
     "/manutech/assets/wasm/index.js": "0e6b04b45380ce88f34a82122f23f2382ece7ea0",
     "/manutech/assets/wasm/ngx-scanner-qrcode.wasm": "62ae0d201db6c5ee5c5ff5071d1a5a5f99a8e4fc",
     "/manutech/common.2fd2a19a71bdcda5.js": "716367ff14d34e47f025edb39cd67725e40680a9",
-    "/manutech/index.html": "c707d56384af5ab9c13236a3b8675a4cbbcf396f",
-    "/manutech/main.14876d22331c7230.js": "e1cb218f0334e7b200b78becc0ec23b7adbaf9ce",
+    "/manutech/index.html": "11c66d9bdc784e3ddfbc98d37bf60cad405d0e84",
+    "/manutech/main.9d783929b4e8f7d6.js": "0f62917b3015429a2b34e872a64826587878edf2",
     "/manutech/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
     "/manutech/polyfills-core-js.93f56369317b7a8e.js": "c8e9e4ae48fec22ae530c491f407d01f349509a9",
     "/manutech/polyfills-dom.516ff539260f3e0d.js": "cea88d53dd7d9ae658909b54c7bf701b2c796086",
     "/manutech/polyfills.39618c63b542eb40.js": "2b14e512d7f6b80448ab840bd3c9eeedefa7950c",
-    "/manutech/runtime.d92642cc3d714627.js": "57e0e9305e24cb188b6fbf12b91927200bbd239b",
+    "/manutech/runtime.7b82b5ef7e419b9b.js": "5c63923dbd916d92743898218212e1d9a8fda6af",
     "/manutech/styles.75dfe84a30722637.css": "4b31e1e5f6b9ba431ef8e64904fae718b4a7881c"
   },
   "navigationUrls": [
